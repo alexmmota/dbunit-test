@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<CT_PRODUTO
+		CTCDPRODUTO="1"
+		CTNMPRODUTO="Produto 1"
+		CTVALOR="25.99"
+		CTQUANTIDADE="8"/>
+		
+</dataset>

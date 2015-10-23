@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<CT_CLIENTE
+		CTCDCLIENTE="1"
+		CTNMCLIENTE="Alex Mota"
+		CTTELEFONE="3499999999"
+		CTENDERECO="Rua Teste, 666"/>
+		
+</dataset>

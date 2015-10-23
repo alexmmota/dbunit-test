@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<CT_CLIENTE
+		CTCDCLIENTE="1"
+		CTNMCLIENTE="Alex Mota"
+		CTTELEFONE="3499999999"
+		CTENDERECO="Rua Teste, 666"/>
+		
+	<CT_PEDIDO
+		CTCDPEDIDO="1"
+		CTCDCLIENTE="1"
+		CTDATA="2015-10-23"
+		CTVALOR="20"/>
+		
+	<CT_PRODUTO
+		CTCDPRODUTO="1"
+		CTNMPRODUTO="Produto 1"
+		CTVALOR="25.99"
+		CTQUANTIDADE="11"/>
+		
+</dataset>

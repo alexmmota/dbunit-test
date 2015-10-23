@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<CT_PEDIDO
+		CTCDPEDIDO="1"
+		CTCDCLIENTE="1"
+		CTDATA="2015-10-23"
+		CTVALOR="123.96"/>
+</dataset>
